@@ -221,6 +221,10 @@ header .navbar a:hover{
   padding:1rem 0;
 }
 
+.speciality .box-container .box .content .empty{
+  transform: scale(0.1);
+}
+
 .speciality .box-container .box:hover .image{
   top:0;
 }
